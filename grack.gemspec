@@ -1,6 +1,6 @@
 require 'rubygems'
 
-SPEC = Gem::Specification.new do |s|
+Gem::Specification.new do |s|
 	s.name = 'grack'
 	s.summary = 'Ruby/Rack Git Smart-HTTP Server Handler'
 	s.version = '0.2.0'
